@@ -1,0 +1,12 @@
+{
+  "name": "angular-barcode-generator",
+  "homepage": "https://github.com/zhuk-aa/angular-barcode-generator",
+  "_release": "f4fc2506b9",
+  "_resolution": {
+    "type": "commit",
+    "commit": "f4fc2506b9"
+  },
+  "_source": "git://github.com/zhuk-aa/angular-barcode-generator.git",
+  "_target": "f4fc2506b9",
+  "_originalSource": "zhuk-aa/angular-barcode-generator"
+}
